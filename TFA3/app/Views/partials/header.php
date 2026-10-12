@@ -11,7 +11,7 @@
 <body>
     <div class="container mt-3">
         <h1 class="fs-2">POS System</h1>
-        <p class="fs-6">Technical Summative Assessment 3: Forms, Validation, and File Upload</p>
+        <p class="fs-6">Technical Formative Assessment 3: MAKING IT EDITABLE: FORMS, VALIDATION, AND FILE UPLOAD</p>
 
         <a href="<?= base_url('/') ?>" class="btn btn-danger">Home</a>
         <a href="<?= base_url('about') ?>" class="btn btn-warning">About</a>
